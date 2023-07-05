@@ -12,6 +12,7 @@ const Newsletter = () => {
                         <input className='p-3 flex w-full rounded-md text-black' type="email" placeholder='Enter email' />
                         <button className='bg-[#6adb6a] text-black rounded-md font-medium w-[200px] ml-4 my-6 py-6'>Notify me</button>
                     </div>
+                    <p>We care about protection of your data.Read our <br></br> <span className='bg-[#6adb6a]'>privacy policy</span> </p>
                 </div>
             </div>
         </div>
